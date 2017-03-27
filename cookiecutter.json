@@ -1,0 +1,12 @@
+{
+    "project_name": "My Theme",
+    "project_slug": "{{ cookiecutter.project_name|replace(' ', '-')|lower }}",
+    "pypackage": "{{ cookiecutter.project_slug|replace('-', '_') }}",
+    "identifier": "{{ cookiecutter.project_slug }}",
+    "license": "AGPL",
+    "author": "OpenDataTeam",
+    "email": "contact@my.team",
+    "description": "My awesome theme",
+    "version": "0.1.0",
+    "website": "https://theme.opendata.team"
+}
