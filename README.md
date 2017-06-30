@@ -6,7 +6,7 @@ A cookiecutter template for a uData theme
 
 ```
 pip install cookiecutter
-cookiecutter gh:opendatateam/cookiecutter-udata-theme
+cookiecutter https://github.com/opendatateam/cookiecutter-udata-theme
 ```
 
 Provide the requested informations and then you can go in the newly created directory
