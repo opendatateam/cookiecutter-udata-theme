@@ -10,7 +10,7 @@ cookiecutter https://github.com/opendatateam/cookiecutter-udata-theme
 ```
 
 Provide the requested informations and then you can go in the newly created directory
-(which will be the `project_slug` that you provided) and lanuch the `docker-compose` stack:
+(which will be the `project_slug` that you provided) and launch the `docker-compose` stack:
 
 ```
 cd $project_slug
