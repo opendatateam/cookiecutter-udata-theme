@@ -1,0 +1,5 @@
+include LICENSE MANIFEST.in README.md CHANGELOG.md
+
+recursive-include {{cookiecutter.project_slug}} *
+
+global-exclude *~ *.egg *.pyc
